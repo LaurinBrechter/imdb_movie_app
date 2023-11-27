@@ -1,0 +1,15 @@
+.center-container {
+    width: 100vw;
+    height: 50vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.graph-container {
+    height: 200px;
+}
+
+.graph {
+    height: 200px;
+}
